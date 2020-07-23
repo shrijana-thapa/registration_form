@@ -1,0 +1,71 @@
+body{
+	background:url(img.jpg);
+	background-size:cover;
+	font-family:sans-serif;
+}
+.header{
+	color:white;
+	font-size:20px;
+	text-align:center;
+}
+.form{
+	color:white;
+	font-size:20px;
+}
+.form input{
+	color:white;
+	border:2px solid #8b9dc3;
+	
+}
+#text{
+	width:300px;
+	padding:10px;
+	margin:10px 70px;
+	color:white;
+	background-color:#9da3ba;
+}
+#phone{
+	width:295px;
+	padding:10px;
+	margin:10px 40px;
+	background-color:#9da3ba;
+}
+.lab{
+	margin-left:300px;
+}
+#per{
+	margin:10px 30px;
+	width:100px;
+	background:none;
+	color:white;
+	border:2px;
+	padding:6px;
+	background-color:#9da3ba;
+}
+#datee{
+margin:10px 0px 0px 120px;
+width:150px;
+color:white;
+background:#9da3ba;
+border:2px;
+padding:6px;
+}
+#timee{
+	margin:10px 0px 40px 0px;
+width:150px;
+color:white;
+background-color:#9da3ba;
+border:2px;
+padding:6px;
+}
+#food{
+	margin: 10px 0px 20px 300px;
+}
+#sub{
+	background-color:#e27bee;
+	width:150px;
+	color:white;
+	border:1px solid black;
+	padding:7px;
+	margin-left:300px;
+}
